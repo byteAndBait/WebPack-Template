@@ -11,7 +11,7 @@ export default {
   plugins: [
     new HtmlWebpackPlugin({
       template: "./src/index.html",
-      title: "Production",
+      title:"WebPage"
     }),
   ],
   module: {
